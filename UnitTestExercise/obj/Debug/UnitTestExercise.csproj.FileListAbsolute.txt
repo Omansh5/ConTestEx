@@ -1,0 +1,14 @@
+D:\Omansh\Day-45\UnitTestExercise\UnitTestExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Omansh\Day-45\UnitTestExercise\UnitTestExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Omansh\Day-45\UnitTestExercise\UnitTestExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Omansh\Day-45\UnitTestExercise\UnitTestExercise\bin\Debug\UnitTestExercise.dll
+D:\Omansh\Day-45\UnitTestExercise\UnitTestExercise\bin\Debug\UnitTestExercise.pdb
+D:\Omansh\Day-45\UnitTestExercise\UnitTestExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Omansh\Day-45\UnitTestExercise\UnitTestExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Omansh\Day-45\UnitTestExercise\UnitTestExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Omansh\Day-45\UnitTestExercise\UnitTestExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Omansh\Day-45\UnitTestExercise\UnitTestExercise\obj\Debug\UnitTestExercise.csprojAssemblyReference.cache
+D:\Omansh\Day-45\UnitTestExercise\UnitTestExercise\obj\Debug\UnitTestExercise.csproj.CoreCompileInputs.cache
+D:\Omansh\Day-45\UnitTestExercise\UnitTestExercise\obj\Debug\UnitTestExercise.csproj.CopyComplete
+D:\Omansh\Day-45\UnitTestExercise\UnitTestExercise\obj\Debug\UnitTestExercise.dll
+D:\Omansh\Day-45\UnitTestExercise\UnitTestExercise\obj\Debug\UnitTestExercise.pdb
